@@ -2,7 +2,7 @@
 
 - Meu nome é Murilo Pereira de lima
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alurs.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
